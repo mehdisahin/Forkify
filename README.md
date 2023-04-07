@@ -57,7 +57,7 @@ The app makes searching for recipes a breeze by categorizing them based on cuisi
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
 * [![JavaScript][JavaScript]][JavaScript-url]
-* [![React][React]][React-url]
+
 
 
 
@@ -87,5 +87,3 @@ The app makes searching for recipes a breeze by categorizing them based on cuisi
 [CSS-url]:https://css.com/
 [JavaScript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JavaScript-url]: https://www.javascript.com/
-[React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://legacy.reactjs.org/
