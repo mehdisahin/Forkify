@@ -66,12 +66,12 @@ The app makes searching for recipes a breeze by categorizing them based on cuisi
 
 
 
+* [ForkifyAPI](https://forkify-api.herokuapp.com/)
 * [Squoosh](https://squoosh.app/)
 * [Tint and Shade](https://maketintsandshades.com/)
 * [Color Generator](https://coolors.co/ffffff-412234-6d466b-b49fcc-ead7d7)
 * [Font Awesome](https://fontawesome.com)
 * [Ionicons](https://ionic.io/ionicons)
-* [ForkifyAPI](https://fontawesome.com)
 
 
 
