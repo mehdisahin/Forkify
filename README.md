@@ -25,19 +25,19 @@
 
 <!-- PROJECT LOGO -->
 
-![Bankist](https://user-images.githubusercontent.com/97400597/230786501-28c05f7d-941f-45df-a736-433ec3d00f7a.png)
+![Forkify](https://user-images.githubusercontent.com/97400597/230788335-4a878a7a-4e8d-4a2f-8e25-5c4af5434242.png)
 
 
 
-  <h3 align="center">Minimalist Banking</h3>
+  <h3 align="center">Get Your Recipe</h3>
 
   <p align="center">
     <br />
-    <a href="https://bankistapp23.netlify.app/">View Demo</a>
+    <a href="https://forkifyappp.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/mehdisahin/BankistApp/issues">Report Bug</a>
+    <a href="https://github.com/mehdisahin/Forkify/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mehdisahin/BankistApp/issues">Request Feature</a>
+    <a href="https://github.com/mehdisahin/Forkify/issues">Request Feature</a>
   </p>
 </div>
 
@@ -46,11 +46,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![FireShot Capture 024 - Bankist - bankistapp23 netlify app](https://user-images.githubusercontent.com/97400597/230787162-b2183313-6c60-4645-a090-c3fb4242b886.png)
+![FireShot Capture 016 - forkify __ Search over 1,000,000 recipes - forkifyappp netlify app](https://user-images.githubusercontent.com/97400597/230788153-cf1720a3-9d06-4eef-b6b2-dba0d1314d38.png)
 
-A financial platform with features for transferring funds between accounts, requesting loans, sorting transactions, and providing a secure login and logout option.
- Use following ıd and passwords to use: ıd: js  password: 1111  /// ıd: jd password: 2222
-
+The app enables users to search for recipes under different categories, add new recipes, bookmark them, and adjust the number of servings based on the ingredients.
 
 ### Built With
 
@@ -67,7 +65,7 @@ A financial platform with features for transferring funds between accounts, requ
 
 
 
-
+* [ForkifyAPI](https://forkify-api.herokuapp.com/)
 * [Tint and Shade](https://maketintsandshades.com/)
 * [Color Generator](https://coolors.co/ffffff-412234-6d466b-b49fcc-ead7d7)
 * [Font Awesome](https://fontawesome.com)
