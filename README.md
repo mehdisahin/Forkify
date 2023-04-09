@@ -1,4 +1,4 @@
-# Forkify
+# BankistApp
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -25,19 +25,19 @@
 
 <!-- PROJECT LOGO -->
 
- ![forkşfy](https://user-images.githubusercontent.com/97400597/230650351-e60571ba-3e5d-40d9-a01a-ca9fd93bffba.png)
+![Bankist](https://user-images.githubusercontent.com/97400597/230786501-28c05f7d-941f-45df-a736-433ec3d00f7a.png)
 
 
 
-  <h3 align="center">Healthy and Organic</h3>
+  <h3 align="center">Minimalist Banking</h3>
 
   <p align="center">
     <br />
-    <a href="https://forkifyappp.netlify.app/">View Demo</a>
+    <a href="https://bankistapp23.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/mehdisahin/Forkify/issues">Report Bug</a>
+    <a href="https://github.com/mehdisahin/BankistApp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mehdisahin/Forkify/issues">Request Feature</a>
+    <a href="https://github.com/mehdisahin/BankistApp/issues">Request Feature</a>
   </p>
 </div>
 
@@ -46,10 +46,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![FireShot Capture 016 - forkify __ Search over 1,000,000 recipes - forkifyappp netlify app](https://user-images.githubusercontent.com/97400597/230650588-ac5b7087-7b58-48d4-bef2-75621a1ee1ce.png)](https://example.com)
+![FireShot Capture 024 - Bankist - bankistapp23 netlify app](https://user-images.githubusercontent.com/97400597/230787162-b2183313-6c60-4645-a090-c3fb4242b886.png)
 
-The app makes searching for recipes a breeze by categorizing them based on cuisine, ingredient, and cooking time. Users can also add their own recipes, bookmark their favorites, and adjust serving sizes. With these features, the app offers a comprehensive platform to discover new dishes and streamline the cooking experience.
- 
+A financial platform with features for transferring funds between accounts, requesting loans, sorting transactions, and providing a secure login and logout option.
+ Use following ıd and passwords to use: ıd: js  password: 1111  /// ıd: jd password: 2222
 
 
 ### Built With
@@ -66,8 +66,8 @@ The app makes searching for recipes a breeze by categorizing them based on cuisi
 
 
 
-* [ForkifyAPI](https://forkify-api.herokuapp.com/)
-* [Squoosh](https://squoosh.app/)
+
+
 * [Tint and Shade](https://maketintsandshades.com/)
 * [Color Generator](https://coolors.co/ffffff-412234-6d466b-b49fcc-ead7d7)
 * [Font Awesome](https://fontawesome.com)
