@@ -33,7 +33,7 @@
 
   <p align="center">
     <br />
-    <a href="https://forkifyappp.netlify.app/">View Demo</a>
+    <a href="https://forkifyapp23.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/mehdisahin/Forkify/issues">Report Bug</a>
     ·
